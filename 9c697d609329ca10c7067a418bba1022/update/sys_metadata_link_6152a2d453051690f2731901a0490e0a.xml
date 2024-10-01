@@ -5,20 +5,20 @@
         <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="x_snc_plant_mgmt_plants">
     <x_snc_plant_mgmt_plants action="INSERT_OR_UPDATE">
         <image>6d8d529053051690f2731901a0490e4a</image>
-        <location display_value="Bockenheimer Landstraße 123, Frankfurt">8228cda2ac1d55eb7029baf443945c37</location>
-        <name>Gerbera</name>
+        <location display_value="150 Kennedy Road, Hong Kong">2bfc77993790200044e0bfc8bcbe5d2f</location>
+        <name>Gerbera II</name>
         <notes/>
         <number>PLANT0001001</number>
-        <patent>8788702049</patent>
+        <patent>87887020491</patent>
         <plant_type display_value="Gerbera">c2dd5a9053051690f2731901a0490e44</plant_type>
-        <status>good</status>
+        <status>sick</status>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-09-30 23:48:03</sys_created_on>
         <sys_id>ea5d9e5053051690f2731901a0490ee4</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-09-30 23:55:09</sys_updated_on>
-        <tissue_culture>ic0001</tissue_culture>
+        <sys_updated_on>2024-10-01 09:29:18</sys_updated_on>
+        <tissue_culture>ic0002</tissue_culture>
     </x_snc_plant_mgmt_plants>
     <sys_attachment action="INSERT_OR_UPDATE">
         <average_image_color>#8a623b</average_image_color>
@@ -65,14 +65,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-10-01 00:09:21</sys_created_on>
         <sys_id>6152a2d453051690f2731901a0490e0a</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>Gerbera</sys_name>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Gerbera II</sys_name>
         <sys_package display_value="Plant Management" source="x_snc_plant_mgmt">9c697d609329ca10c7067a418bba1022</sys_package>
         <sys_policy/>
         <sys_scope display_value="Plant Management">9c697d609329ca10c7067a418bba1022</sys_scope>
         <sys_update_name>sys_metadata_link_6152a2d453051690f2731901a0490e0a</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-10-01 00:09:21</sys_updated_on>
+        <sys_updated_on>2024-10-01 09:29:51</sys_updated_on>
         <tablename>x_snc_plant_mgmt_plants</tablename>
     </sys_metadata_link>
 </record_update>
